@@ -1,3 +1,30 @@
+# Product Manager Site 🚀
+
+Современный веб-сайт, созданный в рамках летней школы. Проект представляет собой интерактивную платформу для продакт-менеджеров.
+
+## 🛠 Стек технологий
+
+- **Framework:** [Next.js 16](https://nextjs.org/) (App Router)
+- **Language:** [TypeScript](https://www.typescriptlang.org/)
+- **Styling:** [Tailwind CSS 4](https://tailwindcss.com/)
+- **UI Components:** [Ant Design](https://ant.design/)
+
+## 🚀 Быстрый старт
+
+1. **Установка зависимостей:**
+   ```bash
+   npm install
+2. Запуск в режиме разработки:
+npm run dev
+После этого откройте http://localhost:3000 (http://localhost:3000) в браузере.
+3. Сборка проекта:
+npm run build
+npm run start
+📁 Структура проекта
+- src/ — основной исходный код приложения.
+- public/ — статические ресурсы (изображения, иконки).
+- next.config.ts — конфигурация Next.js.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
