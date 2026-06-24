@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Продуктовый менеджер | ЭР-Телеком Холдинг",
-  description: "Узнай, кто такой продуктовый менеджер, чем занимается и как начать карьеру в ЭР-Телеком Холдинг",
+  description: "Что делает продуктовый менеджер, чем занимается и как начать карьеру в ЭР-Телеком Холдинг",
 };
 
 export default function RootLayout({
